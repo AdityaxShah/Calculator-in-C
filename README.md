@@ -1,1 +1,1 @@
-Update #6 to README.md in Calculator-in-C
+Update #7 to README.md in Calculator-in-C
